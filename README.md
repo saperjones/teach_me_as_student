@@ -41,9 +41,5 @@
 ```
 teach_me_as_a_student/
   SKILL.md      # 技能定义（frontmatter + 讲解方法 + 硬要求 + 写作风格）
-req.txt         # 原始需求
+req.txt         # 需求说明
 ```
-
-## 由来
-
-本技能由 `tech_doc_plain`（技术文档平实化、保精确、流程做成表格）与 `teach_me_as_student`（针对单个概念深入浅出讲解）两个技能合并而来，写作深度以一份真实的自动驾驶数据生产复盘文档为标杆。
